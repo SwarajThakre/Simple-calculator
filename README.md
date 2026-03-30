@@ -43,7 +43,7 @@ A simple calculator typically handles operations like addition, subtraction, mul
 ### 1. Clone the repository
 
 ```bash id="m0xg6o"
-git clone https://github.com/SwarajThakre/Simple-calculato.git
+git clone https://github.com/SwarajThakre/Simple-calculator.git
 ```
 
 ### 2. Run the project
@@ -89,7 +89,7 @@ function calculate(num1, num2, operator) {
 
 ## 📸 Demo
 
-![Screenshot](screenshot/Screenshot 2026-03-30 134632.png)
+![Screenshot](screenshot/Screenshot.png)
 
 ---
 
