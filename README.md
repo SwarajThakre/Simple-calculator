@@ -93,7 +93,7 @@ function calculate(num1, num2, operator) {
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Plans for Improvement
 
 * 🎨 Improve UI design
 * 📱 Make it fully responsive
