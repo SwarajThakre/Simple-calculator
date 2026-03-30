@@ -89,7 +89,7 @@ function calculate(num1, num2, operator) {
 
 ## 📸 Demo
 
-*Add a screenshot or GIF here*
+![Screenshot](screenshot/Screenshot 2026-03-30 134632.png)
 
 ---
 
